@@ -1,0 +1,3 @@
+tg_bot_api = "6912591265:AAGQNhKlOSV6ClyabL2mKi5u4sIGbGZ86Bk"
+crypto_ask_api = "788A9B1C-223F-4E89-B9F8-F5E6F1786032"
+
